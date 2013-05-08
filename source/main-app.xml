@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><application xmlns="http://ns.adobe.com/air/application/1.5">
+
+  <id>prj.twentyfourhourfitness.kiosk.main</id>
+
+  <version>2.47</version>
+
+  <filename>24 Hour Fitness Kiosk</filename>
+
+  <description/>
+
+  <name>24 Hour Fitness Kiosk</name>
+
+  <copyright>The Buddy Group</copyright>
+
+  <initialWindow>
+    <content>main.swf</content>
+    <systemChrome>none</systemChrome>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <maximizable>false</maximizable>
+    <minimizable>false</minimizable>
+    <resizable>false</resizable>
+  </initialWindow>
+
+  <icon>
+    <image128x128>icon_128.png</image128x128>
+    <image48x48>icon_48.png</image48x48>
+    <image32x32>icon_32.png</image32x32>
+    <image16x16>icon_16.png</image16x16>
+  </icon>
+
+  <customUpdateUI>false</customUpdateUI>
+  <allowBrowserInvocation>false</allowBrowserInvocation>
+
+</application>

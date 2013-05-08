@@ -1,0 +1,3 @@
+package prj.twentyfourhourfitness.kiosk.data {	import flash.events.Event;		/**	 * @author Jason Dias	 */	public class XMLConfigLoaderEvent extends Event 	{		public static const LOADED:String='onLoaded';		public var data:Array;
+		public var timeout:Number;
+		public function XMLConfigLoaderEvent(myType:String, myBubbles:Boolean=false, myCancelable:Boolean=false):void		{			super(myType, myBubbles, myCancelable);		}	}}

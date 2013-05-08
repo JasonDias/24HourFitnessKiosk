@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><application xmlns="http://ns.adobe.com/air/application/1.0">
+
+  <id>com.adobe.example.concept</id>
+
+  <version>1.0</version>
+
+  <filename>concept</filename>
+
+  <description/>
+
+  <name>concept</name>
+
+  <copyright/>
+
+  <initialWindow>
+    <content>concept.swf</content>
+    <systemChrome>standard</systemChrome>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <width>1440</width>
+    <height>900</height>
+    <maximizable>false</maximizable>
+    <minimizable>true</minimizable>
+    <resizable>false</resizable>
+  </initialWindow>
+
+  <icon>
+    <image128x128>icon_128.png</image128x128>
+    <image48x48>icon_48.png</image48x48>
+    <image32x32>icon_32.png</image32x32>
+    <image16x16>icon_16.png</image16x16>
+  </icon>
+
+  <customUpdateUI>false</customUpdateUI>
+
+  <allowBrowserInvocation>false</allowBrowserInvocation>
+
+</application>

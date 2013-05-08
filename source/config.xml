@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kiosk>
+	<links>
+		<link>
+			<label>membership</label>
+			<url>https://www.24hourfitness.com/fit24/Membership.html?clubid=00654&agencyEmployeeId=null&agencySrcTypeId=null&memType=null&appid=654A</url>
+			<color>0x008cb0</color>
+			<id>link1</id>
+			<image>link1.png</image>
+		</link>
+		<link>
+			<label>careers</label>
+			<url>https://24hourfitnessjobs.com/jobboard/indexx.cfm?st=1</url>
+			<color>0x799634</color>
+			<id>link2</id>
+			<image>link2.png</image>
+		</link>
+		<link>
+			<label>class schedule</label>
+			<url>http://24hourfit.schedulesource.com/public/gxschedule.aspx?club=00654</url>
+			<color>0x5f3e25</color>
+			<id>link3</id>
+			<image>link3.png</image>
+		</link>
+		<link>
+			<label>refer a friend</label>
+			<url>http://www.24hourfitness.com/ReferralProgram.do</url>
+			<color>0xd57b2b</color>
+			<id>link4</id>
+			<image>link4.png</image>
+			<blinder>
+				<upperLeft>
+					<x>20</x>
+					<y>0</y>
+				</upperLeft>
+				<lowerRight>
+					<x>1000</x>
+					<y>500</y>
+				</lowerRight>
+				<color>0xFFFFFF</color>
+			</blinder>
+		</link>
+		<link>
+			<label>Mbr Services</label>
+			<url>https://www.24hourfitness.com/usermanagementgui/UserManagementUI.html</url>
+			<color>0xff0000</color>
+			<id>link5</id>
+			<image>link4.png</image>
+		</link>
+		<link>
+			<label>register with 24hourfitness.com</label>
+			<url>https://www.24hourfitness.com/MemberRegistrationForm.do</url>
+			<color>0xff0000</color>
+			<id>regLink</id>
+		</link>
+	</links>
+	<timeout>600</timeout>
+</kiosk>
